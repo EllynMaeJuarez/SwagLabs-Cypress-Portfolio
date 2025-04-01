@@ -84,10 +84,10 @@ npx cypress run
 Below are example screenshots captured during test execution:
 
 **Login Test (Passed):**  
-![LoginTest_Passed](cypress/screenshots/swagLabsLogin.png)
+![LoginTest_Passed](screenshots/swagLabsLogin.png)
 
-**Emmpty Cart Checkout Test (Failed):**  
-![Empty_Cart_CheckoutTest_Failed](cypress/screenshots/checkoutWorkflow.png)
+**Empty Cart Checkout Test (Failed):**  
+![Empty_Cart_CheckoutTest_Failed](screenshots/checkoutWorkflow.png)
 
 Screenshots of passed and failed tests are stored in the `cypress/screenshots/` directory.
 
