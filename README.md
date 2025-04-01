@@ -17,7 +17,7 @@ SwagLabs-Cypress-Portfolio/
 │   │   ├── productSorting.cy.js       # Validates product sorting options
 │   │   ├── cartOperations.cy.js       # Covers cart features like add/remove
 │   │   ├── checkoutWorkflow.cy.js     # Verifies checkout workflows
-│   └── screenshots/                   # Test result snapshots
+├── screenshots/                       # Test result snapshots
 │       ├── LoginTest_Passed.png
 │       ├── CartTest_Passed.png
 │       ├── CheckoutTest_Failed.png
