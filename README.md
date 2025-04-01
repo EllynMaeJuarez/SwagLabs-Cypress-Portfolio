@@ -18,9 +18,10 @@ SwagLabs-Cypress-Portfolio/
 │   │   ├── cartOperations.cy.js       # Covers cart features like add/remove
 │   │   ├── checkoutWorkflow.cy.js     # Verifies checkout workflows
 ├── screenshots/                       # Test result snapshots
-│       ├── LoginTest_Passed.png
-│       ├── CartTest_Passed.png
-│       ├── CheckoutTest_Failed.png
+│       ├── swagLabsLogin.png
+│       ├── productSorting.png
+│       ├── cartOperations.png
+│       ├── checkoutWorkflow.png
 ├── documentation/
 │   ├── README.md                      # Repository overview and setup instructions
 │   ├── manualTestCases.md             # Detailed manual test cases
