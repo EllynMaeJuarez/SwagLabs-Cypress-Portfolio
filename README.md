@@ -111,4 +111,4 @@ The overall results of the test cases are detailed in the `manualTestCases.md` f
 **Ellyn Mae Juarez**  
 Bachelor of Science in Information Technology, University of Cebu  
 - **Aspiring QA Engineer**
-- LinkedIn: [Ellyn Mae Juarez](https://www.linkedin.com/in/ellynmaejuarez)
+- LinkedIn: [Ellyn Mae Juarez](https://www.linkedin.com/in/ellyn-mae-juarez/)
