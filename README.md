@@ -25,7 +25,7 @@ SwagLabs-Cypress-Portfolio/
 ├── documentation/
 │   ├── README.md                      # Repository overview and setup instructions
 │   ├── manualTestCases.md             # Detailed manual test cases
-│   ├── Manual_Testing_Swag_Labs.pdf   # QA Portfolio for Manual Testing
+│   ├── manualTestingSwagLabsPortfolio.pdf   # QA Portfolio for Manual Testing
 ```
 
 ---
